@@ -30,5 +30,5 @@ class read_yaml:
         doc = yaml.full_load(detail)
         return doc
 
-a= read_yaml().read_yaml_all()
-print(a['url'])
+#a= read_yaml().read_yaml_all()
+#print(a['url'])
